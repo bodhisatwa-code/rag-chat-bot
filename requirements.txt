@@ -1,0 +1,6 @@
+pdfminer.six
+langchain
+tqdm
+chromadb
+nltk
+psutil
